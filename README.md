@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurul Samehaah Binti Nordin</h1>
-<h3 align="center">A passionate data analytics from Malaysia</h3>
+<h3 align="center">A passionate data analytics and pricing analyst from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samehaah2200&label=Profile%20views&color=0e75b6&style=flat" alt="samehaah2200" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **porfolio project**
 
-- 🌱 I’m currently learning **HTML,CSS,RestAPI,Git,Angular**
+- 🌱 I’m currently learning **Python, SQL, Numpy, Pandas, Power BI, Tableau, Data Visualization, R Programming, Excel**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/nurulsameha/home](https://sites.google.com/view/nurulsameha/home)
 
 - 💬 Ask me about **Git**
 
-- 📫 How to reach me **Nurulsamehaah2200@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
